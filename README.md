@@ -5,6 +5,7 @@ Projekt založen jako bugtracker pro 1.4.7 verzi CustomCraft serveru!
 
 
 Pravidla serveru:
+
 1) Používejte mozek!
   - Neplatí zde, co není zakázáno, je povoleno!
   - Chovejte se jako lidi!

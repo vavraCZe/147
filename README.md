@@ -111,3 +111,7 @@ Pravidla serveru:
 
   - Je povoleno mít v jednom chunku nejvíše 15 strojů! 
   - Jeden chunk = 16x16x256
+
+22) Tanky z xycraft
+
+  - Tanky musí být odděleny s okolním světem... tedy pokud máte na stropě pár cobblů, tak hned pod tím nestavte tank z xycraftu
